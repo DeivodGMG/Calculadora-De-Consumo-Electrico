@@ -1,0 +1,15 @@
+1. Este codigo te ayudara a calcular la cantidad total de kWh 
+que consume tu vivienda y el monto total a pagar de la luz al mes.
+
+2. Asegurese de tener instalado el interprete de Lua 
+para poder ejecutar el codigo en la terminal.
+2.2 Video de como hacerlo: https://youtu.be/4IlMvmCZ9I8?si=DzJPPmdnpVCy4VcX
+
+3. Teniendo esto en cuenta, escriba en la terminal: lua main.lua 
+,haciendo esto, ya estaria corriendo el programa :D.
+
+4. Si llega a escribir un caracter de tipo "texto" durante el proceso,
+le arrojara un error.
+--------------------------------------------------------
+***Creditos***
+- DeivodGMG (David Ibarra)
