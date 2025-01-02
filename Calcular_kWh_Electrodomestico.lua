@@ -1,6 +1,6 @@
 function Eelectrodomestico()
     os.execute("cls")
-    print("1. Ingrese la cantidad de vatios:")
+    print("1. Ingrese la cantidad de vatios (W):")
     local ok, mensajeError = pcall(function ()
         local W = tonumber(io.read())
         local KW = W / 1000
